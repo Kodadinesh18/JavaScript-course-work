@@ -9,7 +9,7 @@ console.log("my name is dinesh koda!")
 //template literals: or same as formatted string in python
 //we use ` ` 
 //denote value between ${ }
-age=23
+//age=23
 console.log(`your age is ${age}`)
 
 
@@ -46,8 +46,9 @@ if (num%10==0){
     console.log("Bad")
 }
 
-let age=25
-let nam="Dinesh"
-print(`${nam}is ${age} years old`)
+let age=25;
+let nam="Dinesh";
+print(`${nam}is ${age} years old`);
 
 
+ss
